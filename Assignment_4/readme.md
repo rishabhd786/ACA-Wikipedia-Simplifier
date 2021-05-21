@@ -1,0 +1,3 @@
+Hey @everyone ! This week we want to introduce you to a library called Tensorflow. This will be particularly helpful in implementing our final model. The task for this week is an NLP based classification problem. You’ll be given a movie review dataset and you have to classify the reviews. 
+Before you move on to the task, watch https://www.coursera.org/learn/nlp-sequence-models?specialization=deep-learning#syllabus week 1 and week 2 from here for an introduction. 
+The code for the task is here: https://www.tensorflow.org/tutorials/text/text_classification_rnn , but we want you to understand the code from here and then write it yourself from scratch. We don’t want to see you just copy-pasting the code. 
