@@ -39,4 +39,4 @@ until source s is done
 ```
 
 **Architecture**<br>
-![Please look to another PR](https://github.com/parinayc20/ACA-Wikipedia-Simplifier/blob/main/assignment-architecture.png)
+![Please look to another PR](https://github.com/parinayc20/ACA-Wikipedia-Simplifier/blob/main/Assignment-5/assignment-architecture.png)
