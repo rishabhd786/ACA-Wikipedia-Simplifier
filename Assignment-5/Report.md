@@ -1,4 +1,4 @@
-# 
+# SUMMARY OF THE PAPER
 ## INTRODUCTION
 This paper deals with the problem of simplifying the language, sentence structure , style of the original Wikipedia articles into a more readable 
 form. The *Flesch-Kincaid* index is used as the measure of readability.
@@ -38,5 +38,11 @@ end if
 until source s is done
 ```
 
-**Architecture**<br>
-![Please look to another PR](https://github.com/parinayc20/ACA-Wikipedia-Simplifier/blob/main/assignment-architecture.png)
+## ARCHITECTURE
+![Please look to another PR](https://github.com/parinayc20/ACA-Wikipedia-Simplifier/blob/main/Assignment-5/assignment-architecture.png)<br>
+
+## HYPER PARAMETERS
+τ is a rejection threshold (minimum acceptable similarity), {MIN, MINSOFT,
+MAX} are the unconditional minimum, punctuation-marked minimum, and the maximum
+lexeme size in words respectively, SEED is the number of lexemes provided as context, NSAMPLES stands for the number of candidates produced by the generator per each lexeme, and t◦ is the generation temperature.<br>
+
