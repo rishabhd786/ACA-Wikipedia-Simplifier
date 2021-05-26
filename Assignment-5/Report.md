@@ -38,6 +38,7 @@ end if
 until source s is done
 ```
 
+<<<<<<< HEAD
 ## ARCHITECTURE
 ![Please look to another PR](https://github.com/parinayc20/ACA-Wikipedia-Simplifier/blob/main/Assignment-5/assignment-architecture.png)<br>
 
@@ -46,3 +47,7 @@ until source s is done
 MAX} are the unconditional minimum, punctuation-marked minimum, and the maximum
 lexeme size in words respectively, SEED is the number of lexemes provided as context, NSAMPLES stands for the number of candidates produced by the generator per each lexeme, and t◦ is the generation temperature.<br>
 
+=======
+**Architecture**<br>
+![Please look to another PR](https://github.com/parinayc20/ACA-Wikipedia-Simplifier/blob/main/Assignment-5/assignment-architecture.png)
+>>>>>>> dac81c326eece7e5b60de619fce7ffc558ebd640
